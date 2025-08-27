@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rosalikasinaga
 - 👀 I’m interested in cloud computing and network technologies 
 - ⚡ Fun fact: I'm a lefty
-- 📑 Here are my personal interest and professional portfolio
+- 📑 Here are my personal interest and portfolio
 
 <!---
 rosalikasinaga/rosalikasinaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
