@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @rosalikasinaga
-- 👀 I’m interested in cloud computing and network technologies 
 - ⚡ Fun fact: I'm a lefty
 - 📑 Here are my personal interest and portfolio
 
