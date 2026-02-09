@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @rosalikasinaga
-- ⚡ Fun fact: I'm a lefty
+- 👋 Hi, I’m rosalikasinaga
 - 📑 Here are my personal interest and portfolio
 
 <!---
