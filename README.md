@@ -1,4 +1,4 @@
-- 👋 Hi, I’m rosalikasinaga
+- 👋 Hi, I’m Rosa
 - 📑 Here are my personal interest and portfolios
 
 <!---
