@@ -1,5 +1,5 @@
 - Hi👋 I’m Rosa
-- Here are my personal interest and portfolios📑
+- These are my personal interests and portfolios📑
 
 <!---
 rosalikasinaga/rosalikasinaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
