@@ -1,10 +1,17 @@
 <p align="center">
   <a href="https://github.com/rosalikasinaga">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ea9eff&fontSize=54&height=90&width=570&text=Hello!%20I'm%20Rosa" alt="Hello! I&#39;m Rosa" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=f995ec&fontSize=54&height=90&width=570&text=Hello!%20I'm%20Rosa" alt="Hello! I&#39;m Rosa" />
   </a>
 </p>
 
-### Tech Stack
+### 🩰 About Me
+
+These are my personal interests and portfolios (all of these are basically things I've learned)
+
+💻 &nbsp;I'm currently working on **things(repos) need to get done**  
+📚 &nbsp;I'm currently learning **my best on everything (job market is insane)**
+
+### 🫧 Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -21,29 +28,24 @@
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
 </p>
 
-### GitHub Stats
+### 🌸 Connect With Me
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=rosalikasinaga&show_icons=true&theme=tokyonight&title_color=ea9eff&icon_color=ea9eff&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=rosalikasinaga&layout=compact&theme=tokyonight&title_color=ea9eff&icon_color=ea9eff&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+<p align="left">
+  <a href="https://linkedin.com/in/Rosalika Sinaga"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rosalikasinaga88@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### Contribution Graph
+### 🌺 GitHub Stats
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=rosalikasinaga&bg_color=00000000&color=ea9eff&line=ea9eff&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=rosalikasinaga&layout=compact&theme=default&title_color=f995ec&icon_color=f995ec&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### Dev Quote
+### 🪷 Contribution Graph
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=rosalikasinaga&bg_color=00000000&color=f995ec&line=f995ec&point=1f2328&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/rosalikasinaga">rosalikasinaga</a></i></p>
-
-<!---
-rosalikasinaga/rosalikasinaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
