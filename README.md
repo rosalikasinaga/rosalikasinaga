@@ -6,7 +6,7 @@
 
 ### 🩰 About
 
-I'm a Telecommunications Engineering graduate exploring **Cloud, DevOps, Networking, and Backend Development**. Here are my interests and portfolios (all of these are basically things I've learned)
+I'm a Telecommunications Engineering graduate exploring **Cloud, DevOps, Networking, and Backend Development**. Here are my interests and portfolios (documenting what I learn along the way)
 
 💻 &nbsp; Exploring **Cloud, DevOps, Networking & Backend Development**<br>
 📚 &nbsp; Currently learning **Linux, Docker, Terraform, AWS, Git & GitHub, Java & Spring Boot**<br>
