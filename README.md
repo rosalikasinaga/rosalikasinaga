@@ -4,7 +4,7 @@
   </a>
 </p>
 
-### 🩰 About Me
+### 🩰 About
 
 These are my personal interests and portfolios (all of these are basically things I've learned)
 
