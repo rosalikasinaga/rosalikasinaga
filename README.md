@@ -6,10 +6,14 @@
 
 ### 🩰 About
 
-These are my personal interests and portfolios (all of these are basically things I've learned)
+I'm a Telecommunications Engineering graduate exploring **Cloud, DevOps, Networking, and Backend Development**. Here are my interests and portfolios (all of these are basically things I've learned)
 
-💻 &nbsp;I'm currently working on **things(repos) need to get done**  
-📚 &nbsp;I'm currently learning **my best on everything (job market is insane)**
+💻 &nbsp; Exploring **Cloud, DevOps, Networking & Backend Development**<br>
+📚 &nbsp; Currently learning **Linux, Docker, Terraform, AWS, Git & GitHub, Java & Spring Boot**<br>
+📁 &nbsp; Building projects, labs, and learning repos
+
+I like learning by building — turning what I learn into hands-on projects, labs, and documented experiments.
+> Learning by building > watching another tutorial 🙃
 
 ### 🫧 Tech Stack
 
