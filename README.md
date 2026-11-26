@@ -18,25 +18,28 @@ I like learning by building 🧩🛠️
 ### 🫧 Tech Stack
 
 
-<h4>Languages</h4>
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,python,java&theme=dark" />
+<p align="left">
+  <img src="https://cdn.simpleicons.org/typescript/808080" height="32" alt="TypeScript" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/python/808080" height="32" alt="Python" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/openjdk/808080" height="32" alt="Java" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/react/808080" height="32" alt="React" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/spring/808080" height="32" alt="Spring" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/amazonaws/808080" height="32" alt="AWS" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/docker/808080" height="32" alt="Docker" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/git/808080" height="32" alt="Git" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/linux/808080" height="32" alt="Linux" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/github/808080" height="32" alt="GitHub" />
 </p>
 
-<h4>Frameworks & Development</h4>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,spring&theme=dark" />
-</p>
-
-<h4>Cloud & Infrastructure</h4>
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux&theme=dark" />
-</p>
-
-<h4>Tools</h4>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" />
-</p>
 
 
 ### 🌸 Connect With Me
