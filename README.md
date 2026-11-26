@@ -18,7 +18,7 @@ I like learning by building 🧩🛠️
 ### 🫧 Tech Stack
 
 
-<h2>Languages</h2>
+<h5>Languages</h5>
 <p>
   <img src="https://skillicons.dev/icons?i=ts,python,java&theme=dark" />
 </p>
