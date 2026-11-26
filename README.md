@@ -37,17 +37,6 @@ I like learning by building 🧩🛠️
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" />
 </p>
 
-### 🌸 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/rosalika-sinaga/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-  </a>
-  <a href="mailto:rosalikasinaga88@gmail.com">
-    <img src="https://img.shields.io/badge/Email-20232A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
-  </a>
-</p>
-
 ### 🌺 GitHub Stats
 
 <p align="center">
