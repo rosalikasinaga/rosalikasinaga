@@ -17,33 +17,50 @@ I like learning by building 🧩🛠️
 
 ### 🫧 Tech Stack
 
-### Languages
-<p>
-  <img src="https://cdn.simpleicons.org/typescript/808080" height="28" />
-  <img src="https://cdn.simpleicons.org/python/808080" height="28" />
-  <img src="https://cdn.simpleicons.org/openjdk/808080" height="28" />
-</p>
 
-### Frameworks
-<p>
-  <img src="https://cdn.simpleicons.org/react/808080" height="28" />
-  <img src="https://cdn.simpleicons.org/spring/808080" height="28" />
-</p>
+<div align="left">
 
-### Cloud & Infrastructure
-<p>
-  <img src="https://cdn.simpleicons.org/amazonaws/808080" height="28" />
-  <img src="https://cdn.simpleicons.org/docker/808080" height="28" />
-  <img src="https://cdn.simpleicons.org/linux/808080" height="28" />
-</p>
+<table>
+<tr>
+<td align="center" width="90">
+<img src="https://cdn.simpleicons.org/python/8B949E" width="30" /><br/>
+<sub>Python</sub>
+</td>
+<td align="center" width="90">
+<img src="https://cdn.simpleicons.org/java/8B949E" width="30" /><br/>
+<sub>Java</sub>
+</td>
+<td align="center" width="90">
+<img src="https://cdn.simpleicons.org/typescript/8B949E" width="30" /><br/>
+<sub>TypeScript</sub>
+</td>
+<td align="center" width="90">
+<img src="https://cdn.simpleicons.org/react/8B949E" width="30" /><br/>
+<sub>React</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="90">
+<img src="https://cdn.simpleicons.org/spring/8B949E" width="30" /><br/>
+<sub>Spring</sub>
+</td>
+<td align="center" width="90">
+<img src="https://cdn.simpleicons.org/amazonaws/8B949E" width="30" /><br/>
+<sub>AWS</sub>
+</td>
+<td align="center" width="90">
+<img src="https://cdn.simpleicons.org/docker/8B949E" width="30" /><br/>
+<sub>Docker</sub>
+</td>
+<td align="center" width="90">
+<img src="https://cdn.simpleicons.org/linux/8B949E" width="30" /><br/>
+<sub>Linux</sub>
+</td>
+</tr>
+</table>
 
-### Tools
-<p>
-  <img src="https://cdn.simpleicons.org/git/808080" height="28" />
-  <img src="https://cdn.simpleicons.org/github/808080" height="28" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/808080" height="28" />
-  <img src="https://cdn.simpleicons.org/intellijidea/808080" height="28" />
-</p>
+</div>
+
 
 ### 🌸 Connect With Me
 
