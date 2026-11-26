@@ -17,30 +17,33 @@ I like learning by building 🧩🛠️
 
 ### 🫧 Tech Stack
 
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/typescript/808080" height="32" alt="TypeScript" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/python/808080" height="32" alt="Python" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/openjdk/808080" height="32" alt="Java" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/react/808080" height="32" alt="React" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/spring/808080" height="32" alt="Spring" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/amazonaws/808080" height="32" alt="AWS" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/docker/808080" height="32" alt="Docker" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/git/808080" height="32" alt="Git" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/linux/808080" height="32" alt="Linux" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/github/808080" height="32" alt="GitHub" />
+### Languages
+<p>
+  <img src="https://cdn.simpleicons.org/typescript/808080" height="28" />
+  <img src="https://cdn.simpleicons.org/python/808080" height="28" />
+  <img src="https://cdn.simpleicons.org/openjdk/808080" height="28" />
 </p>
 
+### Frameworks
+<p>
+  <img src="https://cdn.simpleicons.org/react/808080" height="28" />
+  <img src="https://cdn.simpleicons.org/spring/808080" height="28" />
+</p>
 
+### Cloud & Infrastructure
+<p>
+  <img src="https://cdn.simpleicons.org/amazonaws/808080" height="28" />
+  <img src="https://cdn.simpleicons.org/docker/808080" height="28" />
+  <img src="https://cdn.simpleicons.org/linux/808080" height="28" />
+</p>
+
+### Tools
+<p>
+  <img src="https://cdn.simpleicons.org/git/808080" height="28" />
+  <img src="https://cdn.simpleicons.org/github/808080" height="28" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/808080" height="28" />
+  <img src="https://cdn.simpleicons.org/intellijidea/808080" height="28" />
+</p>
 
 ### 🌸 Connect With Me
 
