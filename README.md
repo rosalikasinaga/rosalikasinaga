@@ -17,50 +17,25 @@ I like learning by building 🧩🛠️
 
 ### 🫧 Tech Stack
 
+<h4>Languages</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,python,java&theme=dark" />
+</p>
 
-<div align="left">
+<h4>Frameworks & Development</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,spring&theme=dark" />
+</p>
 
-<table>
-<tr>
-<td align="center" width="90">
-<img src="https://cdn.simpleicons.org/python/8B949E" width="30" /><br/>
-<sub>Python</sub>
-</td>
-<td align="center" width="90">
-<img src="https://cdn.simpleicons.org/java/8B949E" width="30" /><br/>
-<sub>Java</sub>
-</td>
-<td align="center" width="90">
-<img src="https://cdn.simpleicons.org/typescript/8B949E" width="30" /><br/>
-<sub>TypeScript</sub>
-</td>
-<td align="center" width="90">
-<img src="https://cdn.simpleicons.org/react/8B949E" width="30" /><br/>
-<sub>React</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="90">
-<img src="https://cdn.simpleicons.org/spring/8B949E" width="30" /><br/>
-<sub>Spring</sub>
-</td>
-<td align="center" width="90">
-<img src="https://cdn.simpleicons.org/amazonaws/8B949E" width="30" /><br/>
-<sub>AWS</sub>
-</td>
-<td align="center" width="90">
-<img src="https://cdn.simpleicons.org/docker/8B949E" width="30" /><br/>
-<sub>Docker</sub>
-</td>
-<td align="center" width="90">
-<img src="https://cdn.simpleicons.org/linux/8B949E" width="30" /><br/>
-<sub>Linux</sub>
-</td>
-</tr>
-</table>
+<h4>Cloud & Infrastructure</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux&theme=dark" />
+</p>
 
-</div>
-
+<h4>Tools</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" />
+</p>
 
 ### 🌸 Connect With Me
 
