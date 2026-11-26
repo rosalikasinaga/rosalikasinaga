@@ -18,22 +18,22 @@ I like learning by building 🧩🛠️
 ### 🫧 Tech Stack
 
 
-<h5>Languages</h5>
+<h4>Languages</h4>
 <p>
   <img src="https://skillicons.dev/icons?i=ts,python,java&theme=dark" />
 </p>
 
-<h3>Frameworks & Development</h3>
+<h4>Frameworks & Development</h4>
 <p>
   <img src="https://skillicons.dev/icons?i=react,spring&theme=dark" />
 </p>
 
-<h3>Cloud & Infrastructure</h3>
+<h4>Cloud & Infrastructure</h4>
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,linux&theme=dark" />
 </p>
 
-<h3>Tools</h3>
+<h4>Tools</h4>
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" />
 </p>
