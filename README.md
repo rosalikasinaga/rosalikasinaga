@@ -41,11 +41,13 @@ I like learning by building 🧩🛠️
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rosalika-sinaga/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" height="28" alt="LinkedIn" />
+    <img src="https://cdn.simpleicons.org/linkedin/8B949E" width="18" height="18" align="center" />
+    LinkedIn
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:rosalikasinaga88@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" height="28" alt="Email" />
+    <img src="https://cdn.simpleicons.org/gmail/8B949E" width="18" height="18" align="center" />
+    Email
   </a>
 </p>
 
