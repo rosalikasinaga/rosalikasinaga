@@ -40,8 +40,13 @@ I like learning by building 🧩🛠️
 ### 🌸 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/Rosalika Sinaga"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:rosalikasinaga88@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/rosalika-sinaga/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" height="28" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:rosalikasinaga88@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" height="28" alt="Email" />
+  </a>
 </p>
 
 ### 🌺 GitHub Stats
